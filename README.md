@@ -5,7 +5,7 @@ Este proyecto implementa un analizador sintáctico para partidas de ajedrez escr
 
 INTEGRANTES DEL EQUIPO
 - Mariana Echeverri Ramirez
-- Nawal Oriana
+- Nawal Oriana Valoyes Rentería
 
 ESPECIFICACIONES TÉCNICAS
 - Lenguaje: Java
@@ -19,23 +19,6 @@ CARACTERÍSTICAS PRINCIPALES
 - Interfaz gráfica intuitiva con sistema de login
 - Visualización de tablero de ajedrez
 - Exportación del árbol como imagen
-
-REQUISITOS DEL SISTEMA
-- Java Runtime Environment (JRE) 17 o superior
-- Resolución de pantalla mínima recomendada: 1024x768
-
-INSTALACIÓN Y EJECUCIÓN
-1. Clone el repositorio:
-   git clone https://github.com/[usuario]/[nombre-repositorio].git
-
-2. Navegue al directorio del proyecto:
-   cd [nombre-repositorio]
-
-3. Compile el proyecto:
-   javac -d bin src/main/*.java src/modelo/*.java src/analizador/*.java src/util/*.java
-
-4. Ejecute la aplicación:
-   java -cp bin main.AplicacionAjedrezGUI
 
 ESTRUCTURA DEL PROYECTO
 src/
