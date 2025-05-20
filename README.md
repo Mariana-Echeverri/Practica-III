@@ -84,7 +84,6 @@ La aplicación implementa la siguiente gramática BNF para la notación SAN:
 
 CARACTERÍSTICAS ADICIONALES
 - Visualización del Tablero: Representación gráfica del tablero de ajedrez con piezas
-- Exportación de Imágenes: Capacidad para guardar el árbol como imagen PNG
 - Interfaz Intuitiva: Diseño amigable con colores temáticos de ajedrez
 - Zoom y Navegación: Herramientas interactivas para explorar árboles grandes
 - Detalles de Jugadas: Panel informativo que muestra detalles de cada movimiento
